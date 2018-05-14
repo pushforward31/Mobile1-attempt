@@ -1,0 +1,4 @@
+#Tue May 08 21:02:02 EDT 2018
+base.0=/Users/james/Documents/turnup/new-mockup/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
