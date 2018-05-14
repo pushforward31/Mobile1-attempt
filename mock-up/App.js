@@ -9,7 +9,6 @@ import createProfilemodule from './components/createProfilemodule.js';
 import Profilemodule from './components/Profilemodule.js';
 import Swiper from 'react-native-swiper';
 
-Mapbox.setAccessToken('pk.eyJ1IjoicHVzaGZvcndhcmQiLCJhIjoiY2pnZWV2eXppMDZleDJ4cDNrd21kampnbiJ9.miL7_LYJW9i-0B_idM6aSAE');
 
 export default class App extends Component {
   render() {
